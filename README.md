@@ -8,7 +8,7 @@ It trains a Random Forest model to classify iris flowers into 3 species (Setosa,
 ### Understanding the Features
 The dataset relies on measuring the length and width of the flower's sepals and petals.
 
-![Petal vs Sepal Diagram](https://miro.medium.com/v2/resize:fit:720/format:webp/1*f6KbPXwksAliMIsobn9gNg.png)
+![Petal vs Sepal Diagram](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png)
 
 📌 Features
 - Data Loading
